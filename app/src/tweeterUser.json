@@ -1,0 +1,179 @@
+[
+  {
+	   "img": "./img/pete_hunt.jpg",
+	    "handle": "@floydophone",
+	     "tweets": [{
+        		"tweet": "Do any mobile web frameworks pass these tests yet? https://www.youtube.com/watch?v=uBYPqb83C7k&feature=youtu.be …"
+        	}, {
+        		"tweet": "On Feb 29th we should honor the authors of datetime libraries who abstract the intricacies of dealing with time."
+        	}, {
+        		"tweet": "We need more talks about observations made. Less about convincing people to take a direction. Problems are more interesting than solutions."
+        	}, {
+        		"tweet": "There's a BART station in Walnut Creek @floydophone"
+        	}, {
+        		"tweet": "goodbye twitter moments?"
+	         }
+         ]
+    },
+    {
+  	   "img": "./img/_jayphelps.jpg",
+  	    "handle": "@_jayphelps",
+  	     "tweets": [{
+          		"tweet": "Introducing: git blame-someone-else. Why admit fault when you can blame someone else? https://github.com/jayphelps/git-blame-someone-else …"
+          	}, {
+          		"tweet": "Next iteration of @babeljs: AST should be a persistent data structure, and analysis/cache (scope, references, etc) should live in WeakMaps"
+          	}, {
+          		"tweet": "Come learn more from @BenLesh and @s_m_mcguire performance without compromise using #ReactJS and #RxJS http://buff.ly/1RAZQcE "
+          	}, {
+          		"tweet": "ICYMI: All Contributors A specification to recognize all contributors, not just the ones who push code."
+          	}, {
+          		"tweet": "I died. 😂"
+  	         }
+           ]
+    },
+    {
+       "img": "./img/benlesh.jpg",
+        "handle": "@BenLesh",
+         "tweets": [{
+              "tweet": "Introducing: git blame-someone-else. Why admit fault when you can blame someone else? https://github.com/jayphelps/git-blame-someone-else …"
+            }, {
+              "tweet": "Next iteration of @babeljs: AST should be a persistent data structure, and analysis/cache (scope, references, etc) should live in WeakMaps"
+            }, {
+              "tweet": "Come learn more from @BenLesh and @s_m_mcguire performance without compromise using #ReactJS and #RxJS http://buff.ly/1RAZQcE "
+            }, {
+              "tweet": "ICYMI: All Contributors A specification to recognize all contributors, not just the ones who push code."
+            }, {
+              "tweet": "I died. 😂"
+             }
+           ]
+    },
+    {
+       "img": "./img/dan_abramov.jpeg",
+        "handle": "@dan_abramov",
+         "tweets": [{
+              "tweet": "Introducing: git blame-someone-else. Why admit fault when you can blame someone else? https://github.com/jayphelps/git-blame-someone-else …"
+            }, {
+              "tweet": "Next iteration of @babeljs: AST should be a persistent data structure, and analysis/cache (scope, references, etc) should live in WeakMaps"
+            }, {
+              "tweet": "Come learn more from @BenLesh and @s_m_mcguire performance without compromise using #ReactJS and #RxJS http://buff.ly/1RAZQcE "
+            }, {
+              "tweet": "ICYMI: All Contributors A specification to recognize all contributors, not just the ones who push code."
+            }, {
+              "tweet": "I died. 😂"
+             }
+           ]
+    },
+    {
+       "img": "./img/bradlygreen.jpeg",
+        "handle": "@bradlygreen",
+         "tweets": [{
+              "tweet": "Introducing: git blame-someone-else. Why admit fault when you can blame someone else? https://github.com/jayphelps/git-blame-someone-else …"
+            }, {
+              "tweet": "Next iteration of @babeljs: AST should be a persistent data structure, and analysis/cache (scope, references, etc) should live in WeakMaps"
+            }, {
+              "tweet": "Come learn more from @BenLesh and @s_m_mcguire performance without compromise using #ReactJS and #RxJS http://buff.ly/1RAZQcE "
+            }, {
+              "tweet": "ICYMI: All Contributors A specification to recognize all contributors, not just the ones who push code."
+            }, {
+              "tweet": "I died. 😂"
+             }
+           ]
+    },
+    {
+       "img": "./img/nodejs.png",
+        "handle": "@nodejs",
+         "tweets": [{
+              "tweet": "Introducing: git blame-someone-else. Why admit fault when you can blame someone else? https://github.com/jayphelps/git-blame-someone-else …"
+            }, {
+              "tweet": "Next iteration of @babeljs: AST should be a persistent data structure, and analysis/cache (scope, references, etc) should live in WeakMaps"
+            }, {
+              "tweet": "Come learn more from @BenLesh and @s_m_mcguire performance without compromise using #ReactJS and #RxJS http://buff.ly/1RAZQcE "
+            }, {
+              "tweet": "ICYMI: All Contributors A specification to recognize all contributors, not just the ones who push code."
+            }, {
+              "tweet": "I died. 😂"
+             }
+           ]
+    },
+    {
+       "img": "./img/reactjs.png",
+        "handle": "@reactjs",
+         "tweets": [{
+              "tweet": "Introducing: git blame-someone-else. Why admit fault when you can blame someone else? https://github.com/jayphelps/git-blame-someone-else …"
+            }, {
+              "tweet": "Next iteration of @babeljs: AST should be a persistent data structure, and analysis/cache (scope, references, etc) should live in WeakMaps"
+            }, {
+              "tweet": "Come learn more from @BenLesh and @s_m_mcguire performance without compromise using #ReactJS and #RxJS http://buff.ly/1RAZQcE "
+            }, {
+              "tweet": "ICYMI: All Contributors A specification to recognize all contributors, not just the ones who push code."
+            }, {
+              "tweet": "I died. 😂"
+             }
+           ]
+    },
+    {
+       "img": "./img/chriscoyier.jpg",
+        "handle": "@chriscoyier",
+         "tweets": [{
+              "tweet": "Introducing: git blame-someone-else. Why admit fault when you can blame someone else? https://github.com/jayphelps/git-blame-someone-else …"
+            }, {
+              "tweet": "Next iteration of @babeljs: AST should be a persistent data structure, and analysis/cache (scope, references, etc) should live in WeakMaps"
+            }, {
+              "tweet": "Come learn more from @BenLesh and @s_m_mcguire performance without compromise using #ReactJS and #RxJS http://buff.ly/1RAZQcE "
+            }, {
+              "tweet": "ICYMI: All Contributors A specification to recognize all contributors, not just the ones who push code."
+            }, {
+              "tweet": "I died. 😂"
+             }
+           ]
+    },
+    {
+       "img": "./img/paul_irish.jpeg",
+        "handle": "@paul_irish",
+         "tweets": [{
+              "tweet": "Introducing: git blame-someone-else. Why admit fault when you can blame someone else? https://github.com/jayphelps/git-blame-someone-else …"
+            }, {
+              "tweet": "Next iteration of @babeljs: AST should be a persistent data structure, and analysis/cache (scope, references, etc) should live in WeakMaps"
+            }, {
+              "tweet": "Come learn more from @BenLesh and @s_m_mcguire performance without compromise using #ReactJS and #RxJS http://buff.ly/1RAZQcE "
+            }, {
+              "tweet": "ICYMI: All Contributors A specification to recognize all contributors, not just the ones who push code."
+            }, {
+              "tweet": "I died. 😂"
+             }
+           ]
+    },
+    {
+       "img": "./img/aerotwist.jpg",
+        "handle": "@aerotwist",
+         "tweets": [{
+              "tweet": "Introducing: git blame-someone-else. Why admit fault when you can blame someone else? https://github.com/jayphelps/git-blame-someone-else …"
+            }, {
+              "tweet": "Next iteration of @babeljs: AST should be a persistent data structure, and analysis/cache (scope, references, etc) should live in WeakMaps"
+            }, {
+              "tweet": "Come learn more from @BenLesh and @s_m_mcguire performance without compromise using #ReactJS and #RxJS http://buff.ly/1RAZQcE "
+            }, {
+              "tweet": "ICYMI: All Contributors A specification to recognize all contributors, not just the ones who push code."
+            }, {
+              "tweet": "I died. 😂"
+             }
+           ]
+    },
+    {
+       "img": "./img/jaffathecake.jpg",
+        "handle": "@jaffathecake",
+         "tweets": [{
+              "tweet": "Introducing: git blame-someone-else. Why admit fault when you can blame someone else? https://github.com/jayphelps/git-blame-someone-else …"
+            }, {
+              "tweet": "Next iteration of @babeljs: AST should be a persistent data structure, and analysis/cache (scope, references, etc) should live in WeakMaps"
+            }, {
+              "tweet": "Come learn more from @BenLesh and @s_m_mcguire performance without compromise using #ReactJS and #RxJS http://buff.ly/1RAZQcE "
+            }, {
+              "tweet": "ICYMI: All Contributors A specification to recognize all contributors, not just the ones who push code."
+            }, {
+              "tweet": "I died. 😂"
+             }
+           ]
+    }
+
+]
