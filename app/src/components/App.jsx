@@ -1,7 +1,7 @@
 import React from 'react';
 import Immutable from 'immutable';
 import TwitterUser from './TwitterUser.jsx';
-import twitterUser from '../tweeterUser.json';
+import twitterUser from '../twitterUser.json';
 export default class App extends React.Component {
   constructor(props) {
     super(props);

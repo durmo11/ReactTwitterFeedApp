@@ -6,8 +6,8 @@ export default class TwitterUser extends React.Component {
   constructor(props){
     super(props);
     this.state= {
-      tweet:0
-    }
+      tweet: 0
+    };
   }
   render() {
     let tweetNum=this.state.tweet;
@@ -28,9 +28,7 @@ export default class TwitterUser extends React.Component {
    )
  }
 
- getTweets = function(tweet){
-   this.setState= ({tweet});
-   console.log(this.setState);
- }
-
+   getTweets=(tweet) =>{
+     this.setState= ({tweet});
+   }
 }
